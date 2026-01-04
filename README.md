@@ -227,9 +227,10 @@ Song metadata via info.json
 
 ## 📜 License
 
-MIT License © 2026  
+PolyForm Noncommercial License © 2026  
 [Ankit Chaubey](https://github.com/ankit-chaubey)
 
+Educational and non-commercial use only.
 
 ---
 
@@ -239,3 +240,13 @@ MIT License © 2026
 - Issues: https://github.com/ankit-chaubey/rtmps/issues
 
 ---
+
+## 📬 Contact
+
+For educational, non-commercial use, questions, or feedback:
+
+- GitHub: [@ankit-chaubey](https://github.com/ankit-chaubey)
+- Email: [Write Me](mailto:m.ankitchaubey@gmail.com)
+- Telegram: [@ankify](https://t.me/ankify)
+---
+

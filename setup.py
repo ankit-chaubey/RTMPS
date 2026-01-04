@@ -13,7 +13,7 @@ setup(
     version="0.1.0",
     author="Ankit Chaubey",
     author_email="",
-    description="Telegram RTMPS Voice Chat music streaming engine",
+    description="Telegram RTMPS Voice Chat music streaming engine (educational, non-commercial)",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
@@ -24,12 +24,12 @@ setup(
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
-        "Intended Audience :: End Users/Desktop",
+        "Intended Audience :: Education",
         "Topic :: Multimedia :: Sound/Audio :: Players",
         "Topic :: Communications :: Chat",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3 :: Only",
-        "License :: OSI Approved :: MIT License",
+        "License :: Other/Proprietary License",
         "Operating System :: OS Independent",
     ],
 
@@ -54,6 +54,8 @@ setup(
         "ffmpeg",
         "telethon",
         "streaming",
+        "education",
+        "non-commercial",
     ],
 
     project_urls={
