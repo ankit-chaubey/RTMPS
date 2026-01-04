@@ -10,7 +10,7 @@ long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="rtmps",
-    version="0.1.0",
+    version="0.1.1",
     author="Ankit Chaubey",
     author_email="",
     description="Telegram RTMPS Voice Chat music streaming engine (educational, non-commercial)",
@@ -35,9 +35,12 @@ setup(
 
     install_requires=[
         "telethon>=1.42.0",
-        "cryptg>=0.5.2",
         "vasu>=0.1.0",
     ],
+
+    extras_require={
+    "speed": ["cryptg>=0.5.2"],
+    },
 
     entry_points={
         "console_scripts": [
