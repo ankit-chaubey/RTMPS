@@ -34,7 +34,9 @@ setup(
     ],
 
     install_requires=[
-        "telethon>=1.34.0",
+        "telethon>=1.42.0",
+        "cryptg>=0.5.2",
+        "vasu>=0.1.0",
     ],
 
     entry_points={
